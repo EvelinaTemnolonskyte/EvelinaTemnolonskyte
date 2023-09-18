@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EvelinaTemnolonskyte
-- 👀 I’m interested in programming (now I am learning C, C++ and assembly languages)
+- 👀 I’m interested in programming
 - 🌱 I’m studying at Vilnius University (Software engineering)
 
 
